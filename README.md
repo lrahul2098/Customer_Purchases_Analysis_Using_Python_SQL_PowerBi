@@ -1,5 +1,6 @@
-**📊 End-to-End Data Analytics Project
-🔍 Overview**
+**📊 End-to-End Data Analytics Project**
+
+**🔍 Overview**
 This project focuses on analyzing customer behavior data to identify purchasing patterns, trends, and insights that can help businesses make data-driven decisions.  
 The analysis is performed using Python for data processing, MySQL for data storage, and Power BI for interactive visualization.
 
